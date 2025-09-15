@@ -1,0 +1,3 @@
+Total cost of shares are: $13,062.00
+Commission cost is: $261.24
+Total Cost is: $13,323.24
