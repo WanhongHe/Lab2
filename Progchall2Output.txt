@@ -1,5 +1,0 @@
-Enter your first name: Wanhong
-Enter your middle name: Kiki
-Enter your last name: He
-My name is: Wanhong Kiki He
-My initials are: WKH
